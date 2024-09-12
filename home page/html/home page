@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,intial-scale=1.0">
+    <meta name="keywords" content=""
+    <meta name="description"content=""
+    <title>hospital services</title>
+    <link rel="stylesheet" href="home page.css">
+</head>
+<body>
+
+    <div class="container">
+    <header>
+
+        <img id="logo"src="download.jpeg" alt="logo">
+             <h1><marquee>Welcome to our hospital</marquee><h1>
+
+        </header>
+            <section class="main-image">
+            <marqueen><img src="hospitalservices.jpg" alt="Hospital main image"><marqueen>
+        </section>
+        <section class="src_01"
